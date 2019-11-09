@@ -2,9 +2,8 @@
 > 歡迎蒞臨，這是 Vue.js 練習製作販售寵物用品的網站 (VueCli3)
 
 ## Demo
-```
 https://huangyitinging.github.io/animalworld_vuecli3/dist/#/
-```
+
 ![GITHUB](https://i.imgur.com/dWfCnO9.png)
 
 ## 簡介
@@ -25,14 +24,23 @@ https://huangyitinging.github.io/animalworld_vuecli3/dist/#/
   * 優惠券管理
 
 ## 內容介紹
+
 * 商品列表
+
 ![GITHUB](https://i.imgur.com/jJ86xgR.png)
+
 * 單一商品資訊
+
 ![GITHUB](https://i.imgur.com/5CoCowA.png)
+
 * 取得優惠券
+
 ![GITHUB](https://i.imgur.com/a5kiwpa.png)
+
 * 訂單結帳
+
 ![GITHUB](https://i.imgur.com/IpPJElD.png)
+
 
 ## 使用技術
 * Vue Cli3
@@ -53,4 +61,4 @@ https://huangyitinging.github.io/animalworld_vuecli3/dist/#/
 * [FontAwesome](https://fontawesome.com)
 
 ## API
-六角學院vue-course-api-wiki(https://github.com/hexschool/vue-course-api-wiki/wiki）
+[六角學院vue-course-api-wiki](https://github.com/hexschool/vue-course-api-wiki/wiki)
