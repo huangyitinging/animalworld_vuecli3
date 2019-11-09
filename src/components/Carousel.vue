@@ -9,7 +9,7 @@
     indicators
     :interval="3000"
     img-width="1024"
-    img-height="480"
+    img-height="450"
   >
     <b-carousel-slide
       img-src="https://i.imgur.com/cqi7CK7.png"
