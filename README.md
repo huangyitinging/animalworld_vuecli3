@@ -5,7 +5,7 @@
 ```
 https://huangyitinging.github.io/animalworld_vuecli3/dist/#/
 ```
-![GITHUB](https://i.imgur.com/xoJEURX.png)
+![GITHUB](https://i.imgur.com/dWfCnO9.png)
 
 ## 簡介
 ```
@@ -51,7 +51,6 @@ https://huangyitinging.github.io/animalworld_vuecli3/dist/#/
 * [Vue-Carousel](https://ssense.github.io/vue-carousel/)
 * [Bootstrap4](https://bootstrap.hexschool.com)
 * [FontAwesome](https://fontawesome.com)
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## API
-[六角學院vue-course-api-wiki](https://github.com/hexschool/vue-course-api-wiki/wiki）
+六角學院vue-course-api-wiki(https://github.com/hexschool/vue-course-api-wiki/wiki）
